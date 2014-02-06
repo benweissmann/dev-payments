@@ -1,6 +1,8 @@
 dev-payments
 ============
 
+Tested on Ubuntu 13.10. Definitely doesn't work on OS X, which doesn't let you put a FIFO in /dev.
+
 Setup
 -----
 
